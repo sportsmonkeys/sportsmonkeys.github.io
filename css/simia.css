@@ -1,0 +1,45 @@
+div .cover{
+  margin-top: 150px;
+  margin-bottom: 200px;
+
+}
+
+div .wo{
+  border-style: solid;
+  border-color: white;
+  border-width: 2px;
+  height: 300px;
+  margin: 10px;
+}
+
+div .wer{
+  border-style: solid;
+  border-color: white;
+  border-width: 2px;
+  height: 300px;
+  margin: 10px;
+}
+
+div .was{
+  border-style: solid;
+  border-color: white;
+  border-width: 2px;
+  height: 300px;
+  margin: 10px;
+}
+
+div .wie{
+  border-style: solid;
+  border-color: white;
+  border-width: 2px;
+  height: 300px;
+  margin: 10px;
+}
+
+div .row{
+margin-bottom: 150px;
+}
+
+img{
+  margin:auto;
+}
